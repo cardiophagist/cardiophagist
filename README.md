@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cardiophagist
-- 👀 I’m interested in frontend development, REST API, generative AI, gaming and modding
-- 🌱 I’m currently learning python
+
 
 
 <!---
